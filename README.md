@@ -3,7 +3,7 @@
 
 <p><small>Works every mondern web browser.</small></p>
 
-[Demo Video Autoscroll](https://www.dropbox.com/s/m2suad1bmqioa1y/scroll-bookmark.gif?dl=0)
+[Demo Video Autoscroll](https://www.dropbox.com/s/q8fkeguw1stkzkj/scroll-bookmark.mp4?dl=0)
 
 
 ### How to make this work?
